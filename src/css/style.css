@@ -1,0 +1,22 @@
+input[type="number"]{
+    border: 2px solid cornflowerblue;
+}
+input[type="text"]{
+    border: 2px solid crimson;
+}
+
+
+
+
+.aprovado {
+    background-color: green;
+}
+
+.recuperacao {
+    background-color: yellow;
+}
+
+.reprovado {
+    background-color: red;
+}
+
