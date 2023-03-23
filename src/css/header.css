@@ -1,0 +1,33 @@
+nav {
+
+    display: flex;    
+    justify-content: space-between;
+    padding: 30px;
+    margin: 0 auto;
+    background-color: #5B5EFD;
+    height: 70px;
+    
+}
+
+h1{
+    font-size: 30px;
+    cursor: pointer;
+    font-weight: 700;
+}
+h1, ul {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    color: #ffffff;
+}
+
+ul li a{ 
+    color: #ffffff;
+    padding: 0 30px;
+    font-size: 20px;
+    transition: 1s;
+
+}
+
+
+
